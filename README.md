@@ -1,6 +1,6 @@
 # The Keeling Curve: Atmospheric CO₂ Trend Forecasting
 
-A time series forecasting analysis that predicted atmospheric CO₂ levels would reach 420 ppm by 2030 using 1997 data—but validation against actual measurements revealed CO₂ crossed this threshold eight years earlier in 2022, demonstrating how climate change is outpacing historical models and highlighting the critical importance of regularly updating forecasts with new data.
+A time series forecasting analysis that predicted atmospheric CO₂ levels would reach 420 ppm by 2030 using 1997 data, but validation against actual measurements revealed CO₂ crossed this threshold eight years earlier in 2022, demonstrating how climate change is outpacing historical models and highlighting the critical importance of regularly updating forecasts with new data.
 
 ---
 
@@ -148,13 +148,8 @@ Install via `install.packages(c("tidyverse", "tsibble", "fable", "feasts", "tser
   - Usage: Academic/research purposes under NOAA data policy
 
 **Project Context:**
-- **Course:** UC Berkeley School of Information - DATASCI 271 (Statistical Methods for Data Science)
+- **Course:** UC Berkeley School of Information - DATASCI 271 (Statistical Methods for Discrete Response, Time Series, and Panel Data)
 - **Duration:** August 2024 - December 2024 (12-week academic project)
-- **Team Members:**
-  - Kelly Short
-  - Kent Bourgoing
-  - Anshul Zutshi
-  - Changhao Meng
 
 ---
 
